@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+qwen3-4b/
+qwen3-4b-merged/
+output/
+report.json
+README.md
